@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_list_lists",
+  "info": {
+    "displayName": "list"
+  },
+  "options": {},
+  "attributes": {
+    "titolo": {
+      "type": "string",
+      "default": "titolo",
+      "required": true
+    },
+    "subtitle": {
+      "type": "string",
+      "default": "subtitle",
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "default": "link",
+      "required": true
+    },
+    "linktext": {
+      "type": "string",
+      "default": "linktext",
+      "required": true
+    },
+    "image": {
+      "type": "string",
+      "default": "image"
+    },
+    "imagetext": {
+      "type": "string",
+      "default": "imagetext"
+    }
+  }
+}
